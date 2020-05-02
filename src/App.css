@@ -1,7 +1,16 @@
-.cardlist {
-  align-items: center;
+.header {
+  text-align: center;
 }
+
+/* .card-component {
+  display: block;
+} */
 
 .card-component > img {
   height: 100px;
+  width: 100px;
+}
+
+.profile-info {
+  display: inline-block;
 }
